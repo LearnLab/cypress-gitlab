@@ -1,8 +1,16 @@
 {
     "users": [
         {
-            "name": "Diego",
+            "firstname": "Administrator",
+            "lastname": "",
+            "username": "root",
+            "email": "diego.castillo@diegocastillo.co",
+            "password": "Wgng/dLn9KzR/EFnbITo24yzM8L7z1xdIu1lyfQtuBA="
+        },
+        {
+            "firstname": "Diego",
             "lastname": "Castillo",
+            "username": "diegocastillo",
             "email": "diego.castillo@diegocastillo.co",
             "password": "/Y`4Vk>4#eKLm~WWG~=:4Oy(X"
         }
